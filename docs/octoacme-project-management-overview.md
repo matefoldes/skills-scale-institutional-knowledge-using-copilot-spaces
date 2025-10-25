@@ -14,6 +14,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+OctoAcme projects rely on cross-functional collaboration across multiple roles and personas. Each role has distinct responsibilities while working together to deliver value.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for detailed definitions of all roles including Project Manager, Product Manager, Developers, QA, Scrum Master, UX Designer, Technical Writer, DevOps Engineer, Customer Success Manager, and Data Analyst.
+
+Quick reference:
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.

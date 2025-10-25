@@ -15,5 +15,7 @@ Process documentation links:
 - docs/octoacme-release-and-deployment.md — Release & Deployment Guide
 - docs/octoacme-retrospective-and-continuous-improvement.md — Retrospective & Continuous Improvement
 - docs/octoacme-roles-and-personas.md — Roles & Personas
+- docs/octoacme-role-onboarding-checklist.md — Role Onboarding Checklist Template
+- docs/octoacme-role-responsibility-matrix.md — RACI Matrix for Common Activities
 
 Keeping this README up to date: When you add or revise process docs in docs/, please update this README to reflect new filenames and a concise summary so team members can quickly find the guidance they need.
